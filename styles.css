@@ -1,0 +1,10 @@
+.container{
+    margin: 3rem auto;
+    background-color: red;
+}
+
+.text{
+    position:relative;
+    top: 20px;
+    left: 100px;
+}
